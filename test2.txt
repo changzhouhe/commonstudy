@@ -2,3 +2,4 @@ test2 change at 3:06PM 2018/03/02
 for the second time, add 1 more line at 3:47PM
 git branch dev
 git checkout dev
+create a branch is quick AND simple.
